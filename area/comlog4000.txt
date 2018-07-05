@@ -1,0 +1,32 @@
+Wed Apr 23 19:34:19 2003
+: EnvyMud is ready to rock on port 4000.
+Wed Apr 23 19:34:34 2003
+: (Unknown): y
+Wed Apr 23 19:34:35 2003
+: (Unknown): kjodo
+Wed Apr 23 19:34:36 2003
+: Kjodo: y
+Wed Apr 23 19:34:39 2003
+: Kjodo: jubjub
+Wed Apr 23 19:34:41 2003
+: Kjodo: jubjub
+Wed Apr 23 19:34:42 2003
+: Kjodo: m
+Wed Apr 23 19:34:45 2003
+: Kjodo: dwarf
+Wed Apr 23 19:34:45 2003
+: Kjodo: y
+Wed Apr 23 19:34:47 2003
+: Kjodo: cleric
+Wed Apr 23 19:34:48 2003
+: Kjodo: y
+Wed Apr 23 19:34:51 2003
+: Kjodo: y
+Wed Apr 23 19:34:52 2003
+: Kjodo: monk
+Wed Apr 23 19:34:52 2003
+: Kjodo: y
+Wed Apr 23 19:34:53 2003
+: Kjodo:  
+Wed Apr 23 19:36:14 2003
+: Kjodo: quit
